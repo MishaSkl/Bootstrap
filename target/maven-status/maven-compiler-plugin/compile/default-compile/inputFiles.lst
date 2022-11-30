@@ -1,0 +1,15 @@
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\configs\SuccessUserHandler.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\model\User.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\service\UserServiceImpl.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\configs\MvcConfig.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\controller\AdminController.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\service\UserService.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\configs\WebSecurityConfig.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\model\Role.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\repositories\RoleRepository.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\service\RoleService.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\service\RoleServiceImpl.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\init\DbInit.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\controller\UserController.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\repositories\UserRepository.java
+C:\IdeaProjects\testSecurity\src\main\java\ru\kata\spring\boot_security\demo\SpringBootSecurityDemoApplication.java
